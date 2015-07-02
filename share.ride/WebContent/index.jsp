@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Taxi Share</h1>
+	<a href="https://accounts.google.com/o/oauth2/auth?scope=email%20profile&state=security_token=138r5719ru3e1&url=https://oa2cb.example.com/myHome&redirect_uri=http://localhost/share.ride/auth&response_type=code&client_id=1004580971154-lh2vd4h2s1vrfnhsdc4rgd07kljbnmou.apps.googleusercontent.com&approval_prompt=force">Google Login</a>
 </body>
 </html>
